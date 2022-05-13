@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Blog>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index Blog</h1>
+
+
+<table class="table table-bordered table-striped" style="width:100%">
+
+    <thead>
+        <tr>
+            <th>
+                Info
+            </th>
+            <th>
+                Readmore
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+            <tr>
+                <td width="50%">
+                    @obj.Info
+                </td>
+                <td width="30%">
+                    @obj.Readmore
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
