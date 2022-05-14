@@ -5,10 +5,12 @@ namespace WAD_DATABASE.Models
     public class Blog
     {
         [Key]
-        public int BlogId { get; set; }
-        public string? Info { get; set; }
-        public string? Readmore { get; set; }
+        public int Id { get; set; }
+        public string? BlogName { get; set; }
 
-        
+        public string? Description { get; set; }
+        public string? Image { get; set; }
+
+
     }
 }

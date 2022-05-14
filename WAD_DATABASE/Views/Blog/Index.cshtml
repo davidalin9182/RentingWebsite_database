@@ -3,33 +3,34 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index Blog</h1>
+<h1> <a type="button" class="btn btn-primary" asp-controller="Blog" asp-action="Create" > Make a Post </a> </h1>
 
 
-<table class="table table-bordered table-striped" style="width:100%">
+<div class="album py-5 bg-light">
+    <div class="container">
+        
+      <div class="row">
+          @foreach(var item in Model)
+           {
+              <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    <img class="card-img-top" src="@item.Image" width="100%" height="225" alt="Card image cap">  
+                    <div class="card-body">
+                         <p class="card-text">@item.BlogName </p>
+                         <p class="card-text">@item.Description </p>
+                         <div class="d-flex justify-content-between align-items-center">
+                             <div class="btn-group">
+                                  
+                                  <a type="button" class="btn btn-sm btn-outline-info" asp-controller="Blog" asp-action="Edit" asp-route-id="@item.Id"> Edit </a> 
+                                  <a type="button" class="btn btn-sm btn-outline-info" asp-controller="Blog" asp-action="Delete" asp-route-id="@item.Id"> Delete </a>
+                             </div>
+                             <small class="text-muted"></small>
+                        </div>
+                  </div>
+             </div>
+            </div>  
+           }
+      </div>
+    </div>
+  </div>
 
-    <thead>
-        <tr>
-            <th>
-                Info
-            </th>
-            <th>
-                Readmore
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var obj in Model)
-        {
-            <tr>
-                <td width="50%">
-                    @obj.Info
-                </td>
-                <td width="30%">
-                    @obj.Readmore
-                </td>
-            </tr>
-        }
-    </tbody>
-
-</table>

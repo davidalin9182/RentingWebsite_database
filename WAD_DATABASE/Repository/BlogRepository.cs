@@ -99,14 +99,14 @@ namespace WAD_DATABASE.Repository
         //    throw new NotImplementedException();
         //}
 
-        public Task<Blog?> GetByIdAsync(int id)
+        public async Task<Blog> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            return await _context.Blog.FirstOrDefaultAsync(i => i.Id == id);
         }
 
-        public Task<Blog?> GetByIdAsyncNoTracking(int id)
+        public async Task<Blog> GetByIdAsyncNoTracking(int id)
         {
-            throw new NotImplementedException();
+            return await _context.Blog.AsNoTracking().FirstOrDefaultAsync(i => i.Id == id);
         }
 
         //public Task<IEnumerable<About>> GetClubByCity(string city)
