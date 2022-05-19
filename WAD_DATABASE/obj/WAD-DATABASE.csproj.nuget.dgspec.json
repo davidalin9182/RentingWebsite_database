@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\WAD-DATABASE.csproj": {}
+    "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\WAD-DATABASE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\WAD-DATABASE.csproj": {
+    "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\WAD-DATABASE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\WAD-DATABASE.csproj",
+        "projectUniqueName": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\WAD-DATABASE.csproj",
         "projectName": "WAD-DATABASE",
-        "projectPath": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\WAD-DATABASE.csproj",
+        "projectPath": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\WAD-DATABASE.csproj",
         "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\obj\\",
+        "outputPath": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,13 +44,17 @@
               "target": "Package",
               "version": "[1.17.0, )"
             },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.3, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",

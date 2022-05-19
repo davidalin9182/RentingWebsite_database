@@ -11,11 +11,14 @@ namespace WAD_DATABASE.Controllers
         
         private readonly IAnnouncementRepository _announcementRepository;
         private readonly IPhotoService _photoService;
-        public AnnouncementController(IAnnouncementRepository announcementRepository, IPhotoService photoService)
+        private readonly IHttpContextAccessor _httpContextAccessor;
+
+        public AnnouncementController(IAnnouncementRepository announcementRepository, IPhotoService photoService, IHttpContextAccessor httpContextAccessor)
         {
 
             _announcementRepository = announcementRepository;
             _photoService = photoService;
+            _httpContextAccessor = httpContextAccessor;
         }
         public async Task<IActionResult> Index()
         {
@@ -25,20 +28,29 @@ namespace WAD_DATABASE.Controllers
 
         public IActionResult Create()
         {
-            return View();
+            var currentUserId = _httpContextAccessor.HttpContext.User.GetUserId();
+            var CreateAnnouncementViewModel = new CreateAnnouncementViewModel { AppUserId = currentUserId };
+            return View(CreateAnnouncementViewModel);
+
         }
             
         [HttpPost]
-        public async Task<IActionResult> Create(CreateAnnouncementViewModel announcementViewModel)
+        public async Task<IActionResult> Create(CreateAnnouncementViewModel AnnouncementVM)
         {
             if(ModelState.IsValid)
             {
-                var result = await _photoService.AddPhotoAsync(announcementViewModel.Image);
+                var result = await _photoService.AddPhotoAsync(AnnouncementVM.Image);
                 var Announcement = new Announcement
                 {
-                    AnnouncementName = announcementViewModel.AnnouncementName,
-                    Description = announcementViewModel.Description,
-                    Image = result.Url.ToString()
+                    AnnouncementName = AnnouncementVM.AnnouncementName,
+                    Description = AnnouncementVM.Description,
+                    Image = result.Url.ToString(),
+                    Location = AnnouncementVM.Location,
+                    Surface = AnnouncementVM.Surface,
+                    PropertyType = AnnouncementVM.PropertyType,
+                    Price = AnnouncementVM.Price,
+                    Phone = AnnouncementVM.Phone,
+                    AppUserId = AnnouncementVM.AppUserId,
                 };
                 _announcementRepository.Add(Announcement);
                 return RedirectToAction("Index");
@@ -47,7 +59,7 @@ namespace WAD_DATABASE.Controllers
             {
                 ModelState.AddModelError("", "Photo Upload Failed!");
             }
-            return View(announcementViewModel);
+            return View(AnnouncementVM);
            
         }
 
@@ -60,8 +72,13 @@ namespace WAD_DATABASE.Controllers
             {
                 AnnouncementName = Announcement.AnnouncementName,
                 Description = Announcement.Description,
-                URL = Announcement.Image
-                
+                URL = Announcement.Image,
+                Location = Announcement.Location,
+                Surface = Announcement.Surface,
+                PropertyType = Announcement.PropertyType,
+                Price = Announcement.Price,
+                Phone = Announcement.Phone
+
             };
             return View(AnnouncementVM);
         }
@@ -100,7 +117,12 @@ namespace WAD_DATABASE.Controllers
                 Id = id,
                 AnnouncementName = AnnouncementVM.AnnouncementName,
                 Description = AnnouncementVM.Description,
-                Image = photoResult.Url.ToString()
+                Image = photoResult.Url.ToString(),
+                Location = AnnouncementVM.Location,
+                Surface = AnnouncementVM.Surface,
+                PropertyType = AnnouncementVM.PropertyType,
+                Price = AnnouncementVM.Price,
+                Phone = AnnouncementVM.Phone,
             };
 
             _announcementRepository.Update(Announcement);
@@ -132,7 +154,8 @@ namespace WAD_DATABASE.Controllers
         public async Task<IActionResult> Detail(int id)
         {
             Announcement Announcement = await _announcementRepository.GetByIdAsync(id);
-            return View(Announcement);
+            return Announcement == null ? NotFound() : View(Announcement);
+            
         }
     }
 }

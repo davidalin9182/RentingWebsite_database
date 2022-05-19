@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZCXScsVT+r7yze68YWGmNbbjRxr4VjDF3Pu/2bSTPZs=",
+  "Hash": "z9XCt+Y/cV0AU43JoXF4x2OYwyyrLrGjLqylF4A5yTo=",
   "Source": "WAD-DATABASE",
   "BasePath": "_content/WAD-DATABASE",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WAD-DATABASE\\wwwroot",
       "Source": "WAD-DATABASE",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WAD-DATABASE.styles.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WAD-DATABASE.styles.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "WAD-DATABASE.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WAD-DATABASE.styles.css"
+      "OriginalItemSpec": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WAD-DATABASE.styles.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WAD-DATABASE.bundle.scp.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WAD-DATABASE.bundle.scp.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "WAD-DATABASE.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WAD-DATABASE.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WAD-DATABASE.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\css\\bootswatchTheme.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\css\\bootswatchTheme.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "css/bootswatchTheme.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\css\\site.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\favicon.ico",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\about.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\about.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/about.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\about.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\backgorund.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\backgorund.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/backgorund.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\backgorund.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\backgorundtry.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\backgorundtry.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/backgorundtry.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\backgorundtry.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\bettingcards.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\bettingcards.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/bettingcards.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bettingcards.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\blackbackgorund.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\blackbackgorund.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/blackbackgorund.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\blackbackgorund.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\cardsnicecolor.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\cardsnicecolor.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/cardsnicecolor.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\cardsnicecolor.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\casinoWheel.jpg",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\casinoWheel.jpg",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/casinoWheel.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\casinoWheel.jpg"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game1.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game1.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/game1.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\game1.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game10.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game10.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/game10.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\game10.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game11.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game11.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/game11.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\game11.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game12.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game12.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/game12.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\game12.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game2.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game2.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/game2.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\game2.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game3.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game3.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/game3.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\game3.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game4.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game4.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/game4.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\game4.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game5.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game5.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/game5.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\game5.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game6.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game6.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/game6.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\game6.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game7.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game7.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/game7.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\game7.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game8.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game8.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/game8.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\game8.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game9.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\game9.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/game9.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\game9.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\greenbackgorund.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\greenbackgorund.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/greenbackgorund.png",
       "AssetKind": "All",
@@ -442,10 +442,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\greenbackgorund.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\images.jpg",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\home-interior-background-for-video-conferencing-vector-34878946.jpg",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "BasePath": "_content/WAD-DATABASE",
+      "RelativePath": "Images/home-interior-background-for-video-conferencing-vector-34878946.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\home-interior-background-for-video-conferencing-vector-34878946.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\images.jpg",
+      "SourceId": "WAD-DATABASE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/images.jpg",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\images.jpg"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\logo.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\logo.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/logo.png",
       "AssetKind": "All",
@@ -476,10 +493,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\logounibet.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\logo_casa.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "BasePath": "_content/WAD-DATABASE",
+      "RelativePath": "Images/logo_casa.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\logo_casa.png"
+    },
+    {
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\logounibet.png",
+      "SourceId": "WAD-DATABASE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/logounibet.png",
       "AssetKind": "All",
@@ -493,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logounibet.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\money_guy.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\money_guy.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/money_guy.png",
       "AssetKind": "All",
@@ -510,10 +544,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\money_guy.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\redbackgorund.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\real-estate-logo-rental-home-logo-vector.jpg",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "BasePath": "_content/WAD-DATABASE",
+      "RelativePath": "Images/real-estate-logo-rental-home-logo-vector.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\real-estate-logo-rental-home-logo-vector.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\redbackgorund.png",
+      "SourceId": "WAD-DATABASE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/redbackgorund.png",
       "AssetKind": "All",
@@ -527,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\redbackgorund.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\redmoney.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\redmoney.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/redmoney.png",
       "AssetKind": "All",
@@ -544,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\redmoney.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\schema1.mwb",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\schema1.mwb",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/schema1.mwb",
       "AssetKind": "All",
@@ -561,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\schema1.mwb"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\schema1.mwb.bak",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\schema1.mwb.bak",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/schema1.mwb.bak",
       "AssetKind": "All",
@@ -578,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\schema1.mwb.bak"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\schema1.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\schema1.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/schema1.png",
       "AssetKind": "All",
@@ -595,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\schema1.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\testcards.jpg",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\testcards.jpg",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/testcards.jpg",
       "AssetKind": "All",
@@ -612,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\testcards.jpg"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\wheelLogo.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\wheelLogo.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/wheelLogo.png",
       "AssetKind": "All",
@@ -629,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\wheelLogo.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\whitebackground.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\whitebackground.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/whitebackground.png",
       "AssetKind": "All",
@@ -646,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\whitebackground.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\yellowbackgorund.png",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\Images\\yellowbackgorund.png",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "Images/yellowbackgorund.png",
       "AssetKind": "All",
@@ -663,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\yellowbackgorund.png"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\js\\site.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -680,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -697,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -714,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -731,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -748,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -765,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -782,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -799,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -816,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -833,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -850,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -867,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -884,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -901,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -918,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -935,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -952,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -969,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -986,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1003,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1020,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1037,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1054,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1071,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1088,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1105,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1122,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1139,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1156,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1173,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1190,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1207,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1224,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1241,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1258,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1275,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1292,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1309,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1326,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1343,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1360,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1377,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1394,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1411,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1428,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1445,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1462,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1479,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1496,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1513,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1530,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1547,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1564,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1581,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1598,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1615,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1632,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WAD-DATABASE",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\samet\\Desktop\\final_try\\New folder (3)\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\wwwroot\\",
       "BasePath": "_content/WAD-DATABASE",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

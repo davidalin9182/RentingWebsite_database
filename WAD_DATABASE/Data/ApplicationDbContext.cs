@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using WAD_DATABASE.Models;
 
 namespace WAD_DATABASE.Data
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext<AppUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
@@ -15,7 +16,6 @@ namespace WAD_DATABASE.Data
         public DbSet<Credits> Credits { get; set; }
         public DbSet<Announcement> Announcement { get; set; }
         public DbSet<Home> Home { get; set; }
-
         public DbSet<Score> Score { get; set; }
     }
 }
