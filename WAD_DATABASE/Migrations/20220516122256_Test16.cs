@@ -2,9 +2,9 @@
 
 #nullable disable
 
-namespace WAD_DATABASE.Migrations
+namespace WADDATABASE.Migrations
 {
-    public partial class AddAboutToDatabase : Migration
+    public partial class Test16 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
