@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WAD-DATABASE", "WAD_DATABASE\WAD-DATABASE.csproj", "{9B429E2C-874B-4245-9B89-90804A90B2BF}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test1", "..\RentingWebsite_database-branch2\Test1\Test1.csproj", "{A6040AE6-1C54-4799-9E30-E85A2F608820}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9B429E2C-874B-4245-9B89-90804A90B2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B429E2C-874B-4245-9B89-90804A90B2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B429E2C-874B-4245-9B89-90804A90B2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6040AE6-1C54-4799-9E30-E85A2F608820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6040AE6-1C54-4799-9E30-E85A2F608820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6040AE6-1C54-4799-9E30-E85A2F608820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6040AE6-1C54-4799-9E30-E85A2F608820}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

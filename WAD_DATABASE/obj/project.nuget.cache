@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PImCsRIYl2S7UTDdKYhQ79gDru+12NaxqHDBF+tq1P8kewNCj7cwnUFX6i5QVfWCDns7ipjaNu7CoLnzCU8Axg==",
+  "dgSpecHash": "fArvJu1x/ej7lGpfQwPrTv+JAo9DwOWOCGXztU42srUdiF6J9zZewNk11Ze8czkXQAmosobC+0f+OtOzfinNPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samet\\Desktop\\ultima_verisune1\\WAD_DATABASE\\WAD_DATABASE\\WAD-DATABASE.csproj",
+  "projectFilePath": "C:\\Users\\samet\\Desktop\\New folder (3)\\ultimaversiune\\New folder\\WAD_DATABASE\\WAD-DATABASE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samet\\.nuget\\packages\\cloudinarydotnet\\1.17.0\\cloudinarydotnet.1.17.0.nupkg.sha512",
     "C:\\Users\\samet\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
