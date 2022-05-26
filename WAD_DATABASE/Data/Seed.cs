@@ -12,47 +12,47 @@ namespace WAD_DATABASE.Data
             {
                 var context = serviceScope.ServiceProvider.GetService<ApplicationDbContext>();
 
-                context.Database.EnsureCreated();
+                //context.Database.EnsureCreated();
 
-                if (!context.Announcement.Any())
-                {
-                    context.Announcement.AddRange(new List<Announcement>()
-                    {
-                        new Announcement()
-                        {
-                            AnnouncementName = "Roulette",
-                            Image = "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/running.jpg?quality=82&strip=1&resize=640%2C360",
+                ////if (!context.Announcement.Any())
+                ////{
+                ////    context.Announcement.AddRange(new List<Announcement>()
+                ////    {
+                ////        new Announcement()
+                ////        {
+                ////            AnnouncementName = "Roulette",
+                ////            Image = "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/running.jpg?quality=82&strip=1&resize=640%2C360",
 
-                            Description = "Roullete Game",
+                ////            Description = "Roullete Game",
 
-                         },
-                        new Announcement()
-                        {
-                            AnnouncementName = "Blackjack",
-                            Image = "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/running.jpg?quality=82&strip=1&resize=640%2C360",
+                ////         },
+                ////        new Announcement()
+                ////        {
+                ////            AnnouncementName = "Blackjack",
+                ////            Image = "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/running.jpg?quality=82&strip=1&resize=640%2C360",
 
-                            Description = "Blackjack Game",
+                ////            Description = "Blackjack Game",
 
-                         },
-                        new Announcement()
-                        {
-                            AnnouncementName = "SlotMachine",
-                            Image = "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/running.jpg?quality=82&strip=1&resize=640%2C360",
+                ////         },
+                ////        new Announcement()
+                ////        {
+                ////            AnnouncementName = "SlotMachine",
+                ////            Image = "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/running.jpg?quality=82&strip=1&resize=640%2C360",
 
-                            Description = "SlotMachine Game",
+                ////            Description = "SlotMachine Game",
 
-                         },
-                        new Announcement()
-                        {
-                            AnnouncementName = "Soliter",
-                            Image = "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/running.jpg?quality=82&strip=1&resize=640%2C360",
+                ////         },
+                ////        new Announcement()
+                ////        {
+                ////            AnnouncementName = "Soliter",
+                ////            Image = "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/running.jpg?quality=82&strip=1&resize=640%2C360",
 
-                            Description = "Soliter Game",
+                ////            Description = "Soliter Game",
 
-                         }
-                    });
-                    context.SaveChanges();
-                }
+                ////         }
+                ////    });
+                ////    context.SaveChanges();
+                //}
 
             }
         }

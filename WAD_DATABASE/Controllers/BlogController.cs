@@ -11,11 +11,13 @@ namespace WAD_DATABASE.Controllers
 
         private readonly IBlogRepository _blogRepository;
         private readonly IPhotoService _photoService;
-        public BlogController(IBlogRepository blogRepository, IPhotoService photoService)
+        private readonly IHttpContextAccessor _httpContextAccessor;
+        public BlogController(IBlogRepository blogRepository, IPhotoService photoService, IHttpContextAccessor httpContextAccessor)
         {
 
             _blogRepository = blogRepository;
             _photoService = photoService;
+            _httpContextAccessor = httpContextAccessor;
         }
         public async Task<IActionResult> Index()
         {
@@ -25,7 +27,9 @@ namespace WAD_DATABASE.Controllers
 
         public IActionResult Create()
         {
-            return View();
+            var currentUserId = _httpContextAccessor.HttpContext.User.GetUserId();
+            var CreateBlogViewModel = new CreateBlogViewModel { AppUserId = currentUserId };
+            return View(CreateBlogViewModel);
         }
 
         [HttpPost]
@@ -38,7 +42,8 @@ namespace WAD_DATABASE.Controllers
                 {
                     BlogName = BlogVM.BlogName,
                     Description = BlogVM.Description,
-                    Image = result.Url.ToString()
+                    Image = result.Url.ToString(),
+                    AppUserId = BlogVM.AppUserId
                 };
                 _blogRepository.Add(Blog);
                 return RedirectToAction("Index");

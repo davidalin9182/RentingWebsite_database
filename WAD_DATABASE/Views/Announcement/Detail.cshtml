@@ -4,14 +4,7 @@
       <nav aria-label="breadcrumb" role="navigation" class="bg-primary text-white">
         <div class="container">
           <div class="row justify-content-center">
-            <div class="col">
-              <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.html">Home</a>
-                </li>
-                <li class="breadcrumb-item"><a href="pages-app.html">Find</a>
-                </li>
-              </ol>
-            </div>
+            
             <!--end of col-->
           </div>
           <!--end of row-->
@@ -22,6 +15,8 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-7 mb-4 mb-sm-0">
+                </br>
+                </br>
               <img alt="Image" src="@Model.Image" class="rounded img-fluid" />
             </div>
             <!--end of col-->
@@ -33,13 +28,24 @@
                 </div>
                 <div>
                   <ul class="list-inline text-small d-inline-block mb-3">
-                    <li class="list-inline-item"><i class="icon-thumbs-up"></i> 214</li>
-                    <li class="list-inline-item"><i class="icon-message"></i> 6</li>
+                    
+                    <li class="list-inline-item"><i class="icon-message"></i>Adress:@Model.Location </li> </br>
+                    <li class="list-inline-item"><i class="icon-message"></i>Surface:@Model.Surface m² </li> </br>
+                    <li class="list-inline-item"><i class="icon-message"></i>Property Type:@Model.PropertyType  </li> </br>
+                    <li class="list-inline-item"><i class="icon-message"></i>Renting Price:@Model.Price $ </li>
+                    <li class="list-inline-item"><i class="icon-thumbs-up"></i>Phone number:@Model.Phone</li> </br> 
+                    
                   </ul>
                 </div>
               </div>
               <div>
-                <div class="btn-group mb-2">
+                  <ul class="list-inline text-small d-inline-block mb-3">
+                    
+                    
+                    <li class="list-inline-item"><i class="icon-thumbs-up"></i>Description:@Model.Description</li> </br> 
+                    
+                  </ul>
+                @*<div class="btn-group mb-2">
                   <button type="button" class="btn btn-success btn-lg">Announcement for sell</button>
                   <button type="button" class="btn btn-success dropdown-toggle dropdown-toggle-split dropdown-toggle-no-arrow" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <i class="icon-dots-three-horizontal"></i>
@@ -52,7 +58,7 @@
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">Separated link</a>
                   </div>
-                </div>
+                </div>*@
               </div>
             </div>
             <!--end of col-->

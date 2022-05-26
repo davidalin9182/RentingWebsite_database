@@ -17,6 +17,17 @@ namespace WAD_DATABASE.Models
         public string? Description { get; set; }
         public string? Image { get; set; }
 
+        public string? Location { get; set; }
+
+        public string? PropertyType { get; set; }
+        public int? Price { get; set; }
+
+        public int? Phone { get; set; }
+
+        public int? Surface { get; set; }
+
+        
+
       
     }
 }

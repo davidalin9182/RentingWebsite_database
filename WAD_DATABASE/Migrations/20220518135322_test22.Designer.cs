@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WAD_DATABASE.Data;
 
@@ -11,9 +12,10 @@ using WAD_DATABASE.Data;
 namespace WADDATABASE.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20220518135322_test22")]
+    partial class test22
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -178,21 +180,6 @@ namespace WADDATABASE.Migrations
                     b.Property<string>("Image")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Location")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("Phone")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("Price")
-                        .HasColumnType("int");
-
-                    b.Property<string>("PropertyType")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("Surface")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
                     b.HasIndex("AppUserId");
@@ -279,12 +266,6 @@ namespace WADDATABASE.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<int?>("AddressId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("AppUserId")
-                        .HasColumnType("nvarchar(450)");
-
                     b.Property<string>("BlogName")
                         .HasColumnType("nvarchar(max)");
 
@@ -295,8 +276,6 @@ namespace WADDATABASE.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("AppUserId");
 
                     b.ToTable("Blog");
                 });
@@ -457,20 +436,9 @@ namespace WADDATABASE.Migrations
                     b.Navigation("AppUser");
                 });
 
-            modelBuilder.Entity("WAD_DATABASE.Models.Blog", b =>
-                {
-                    b.HasOne("WAD_DATABASE.Models.AppUser", "AppUser")
-                        .WithMany("Blog")
-                        .HasForeignKey("AppUserId");
-
-                    b.Navigation("AppUser");
-                });
-
             modelBuilder.Entity("WAD_DATABASE.Models.AppUser", b =>
                 {
                     b.Navigation("Announcements");
-
-                    b.Navigation("Blog");
                 });
 #pragma warning restore 612, 618
         }

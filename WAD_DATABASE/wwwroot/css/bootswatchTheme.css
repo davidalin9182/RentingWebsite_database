@@ -94,6 +94,21 @@ body {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+body-Home {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-image: url("../Images/cardsnicecolor.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
 hr {
     margin: 1rem 0;
     color: inherit;
@@ -581,6 +596,7 @@ progress {
 .list-unstyled {
     padding-left: 0;
     list-style: none;
+    
 }
 
 .list-inline {
@@ -589,11 +605,14 @@ progress {
 }
 
 .list-inline-item {
-    display: inline-block;
+    display: inline-table;
+    padding-top: 1rem;
+    
 }
 
     .list-inline-item:not(:last-child) {
         margin-right: 0.5rem;
+        
     }
 
 .initialism {
@@ -5223,7 +5242,7 @@ fieldset:disabled .btn {
     }
 
 .card-footer {
-    padding: 0.5rem 1rem;
+    padding: 0;
     background-color: rgba(7, 54, 66, 0.25);
     border-top: 1px solid rgba(0, 43, 54, 0.95);
 }

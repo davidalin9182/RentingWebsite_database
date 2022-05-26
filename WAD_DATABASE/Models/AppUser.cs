@@ -15,7 +15,7 @@ namespace WAD_DATABASE.Models
 
         public ICollection<Announcement>? Announcements { get; set; }
 
-
+        public ICollection<Blog>? Blog { get; set; }
 
     }
 }
