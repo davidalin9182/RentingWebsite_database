@@ -1,0 +1,47 @@
+﻿@using WAD_DATABASE.ViewModels
+@model EditAnnouncementViewModel
+
+<form method="post" asp-action="Edit" enctype="multipart/form-data">
+    <input type="hidden" value="AddressId" id="AddressId" />
+    <div class="form-group">
+        <label asp-for="AnnouncementName">Title</label>
+        <input asp-for="AnnouncementName" class="form-control" placeholder="Title">
+        <span asp-validation-for="AnnouncementName" class="text-danger"></span>
+ </div>
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" class="form-control" placeholder="Description">
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+<div class="form-group">
+        <label asp-for="Image">Image</label>
+        <input asp-for="Image" type="file" class="form-control" placeholder="Image">
+        <span asp-validation-for="Image" class="text-danger"></span>
+</div>
+ <div class="form-group">
+    <label asp-for="Location">Location:</label>
+    <input asp-for="Location"  class="form-control"  placeholder="Enter the location ">
+    <span asp-valdiation-for="Location" class="text danger"></span>
+  </div>
+  <div class="form-group">
+    <label asp-for="Surface">Surface:</label>
+    <input asp-for="Surface"  class="form-control"  placeholder="Enter surface ">
+    <span asp-valdiation-for="Surface" class="text danger"></span>
+  </div>
+  <div class="form-group">
+    <label asp-for="PropertyType">PropertyType:</label>
+    <input asp-for="PropertyType"  class="form-control"  placeholder="Enter the property type ">
+    <span asp-valdiation-for="PropertyType" class="text danger"></span>
+  </div>
+  <div class="form-group">
+    <label asp-for="Price">Price:</label>
+    <input asp-for="Price"  class="form-control"  placeholder="Enter renting price ">
+    <span asp-valdiation-for="Price" class="text danger"></span>
+  </div>
+  <div class="form-group">
+    <label asp-for="Phone">Phone:</label>
+    <input asp-for="Phone"  class="form-control"  placeholder="Enter phone number">
+    <span asp-valdiation-for="Phone" class="text danger"></span>
+  </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
